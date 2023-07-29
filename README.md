@@ -5,7 +5,7 @@ Sou estudante de Engenharia da Computação 2° no Centro Universitário Senac. 
 
 ### Linguagens e Ferramentas
 
-<div style ="display: inline_block><br/>
+<div style ="display: inline_block"><br/>
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
