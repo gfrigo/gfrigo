@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Frigo 👋 
 
-Sou estudante de Engenharia da Computação 2° no Centro Universitário Senac. Atualmente me especializando em desenvolvimento Mobile com o framework React Native e desenvolvendo projetos reais para evoluir minhas habilidades de programação.
+Sou estudante de Engenharia da Computação 2° no Centro Universitário Senac. Atualmente, desenvolvo aplicações Mobile utilizando o framework React Native.
 
 
 ### Linguagens e Ferramentas
