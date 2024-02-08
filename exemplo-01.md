@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando {Engenharia da Computação} no {Centro Universitário Senac}.
+- 💼 Procurando estágio como {Cientista de dados}.
+- 🌱 Me especializando em {Ciência de Dados e Machine Learning}.
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
@@ -21,6 +21,10 @@
 <p align="left">
   💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
 </p>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
 
 <p align="left">
   💌 Entre em contato: ⤵️
