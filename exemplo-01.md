@@ -8,22 +8,7 @@
 - 🌱 Me especializando em {Ciência de Dados e Machine Learning}.
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Olá, me chamo Gabriel Frigo, tenho 19 anos, estou na graduação de Engenharia da computação e me especializando em <strong>Ciência de Dados</strong>.<br>
-</p>
-
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
-
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
 <p align="left">
