@@ -1,3 +1,8 @@
+# Olá!
+
+## Sobre mim
+Desenvolvedor de software full-stack utilizando as linguagens Java, Javascript e Python e frameworks como Spring, React e Django. 
+
 ### Contato
 Mande-me uma mensagem!
 
