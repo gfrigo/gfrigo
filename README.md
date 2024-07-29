@@ -1,16 +1,20 @@
-<h1 align="left">Olá 👋</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">Meu nome é Gabriel Frigo e sou Desenvolvedor de Software full-stack.</p>
+<p align="left">My name is Gabriel Frigo and I'm a Full-Stack Software Developer.</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">📚 Atualmente  estudando desenvolvimento Back-End com Java e Spring Boot<br>💼 Estou trabalhando como estagiário em Desenvolvimento de Software com Python</p>
+<p align="left">
+  📚 Currently, I'm studyng Back-end Development with Java and Spring Boot<br>
+  💼 I'm working as an Intern Python Software Developer at IQVIA<br>
+  🎓 Computer Engineering: 4/10<br>
+</p>
 
 ###
 
