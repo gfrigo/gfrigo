@@ -1,7 +1,5 @@
 <h1 align="left">Olá 👋</h1>
 
-###
-
 <p align="left">Meu nome é Gabriel Frigo e sou Desenvolvedor de Software full-stack.</p>
 
 ###
