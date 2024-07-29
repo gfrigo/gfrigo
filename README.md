@@ -60,4 +60,10 @@
 
 ###
 
+<h2 align="left">Minha atividade</h2>
+
+###
+
+
+![snake animation](https://github.com/gfrigo/gfrigo/blob/output/github-contribution-grid-snake2.svg)
 
