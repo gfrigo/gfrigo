@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Entre em contato</h2>
+<h2 align="left">Contact me</h2>
 
 ###
 
