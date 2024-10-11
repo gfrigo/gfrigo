@@ -30,8 +30,13 @@
 
 ###
 
-
+<div align="left">
+  <a href="mailto:gfrigo.sena@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gfrigo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gfrigo.sena@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gfrigo/)
