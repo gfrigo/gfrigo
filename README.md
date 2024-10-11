@@ -41,4 +41,5 @@
 </div>
 
 ###
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](mailto:gfrigo.sena@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gfrigo/)
