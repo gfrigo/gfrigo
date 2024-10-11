@@ -62,7 +62,7 @@
   </a>
 </div>
 
-![My Skills](https://skillicons.dev/icons?i=java,js,html,css,)
+![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,selenium,js,html,css,react,aws,postgres,mysql,sqlite&theme=light)
 
 ###
 
