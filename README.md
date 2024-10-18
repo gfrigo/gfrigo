@@ -32,27 +32,18 @@
 
 [<img align="left" height="94px" width="94px" alt="Bradesco seguros logo" src="/images/bradesco.png"/>](https://www.bradescoseguros.com.br/clientes)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+**Technology** \
+[**Bradesco Seguros**](https://www.bradescoseguros.com.br/clientes) • Intern \
+Linguagens & Tecnologias: `Python`, `Django`, `Selenium`, `Pandas`\
+Projetos em destaque: [Nome](Link)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="IQVIA logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
-
 **Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
+[**IQVIA**](https://rocketseat.com.br/) • Intern \
+Linguagens & Tecnologias: `Python`, `Django`, `Selenium`, `Pandas`\
+Projetos em destaque: [Nome](Link)
 <br/>
 
 ###
