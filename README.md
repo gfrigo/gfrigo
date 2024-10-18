@@ -38,7 +38,7 @@ Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `Sa
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="IQVIA logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
 
 **Frot-end Developer (Jr)** \
 [**Rocketseat**](https://rocketseat.com.br/) • Contract \
