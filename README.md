@@ -30,7 +30,7 @@
 
 ###
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.iqvia.com/"/>](https://www.spacex.com/)
 
 **Software Engineer** \
 [**SpaceX**](https://www.spacex.com/) • Full-time \
