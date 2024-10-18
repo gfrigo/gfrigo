@@ -41,7 +41,7 @@ Resume: test_resume
 [<img align="left" height="94px" width="94px" alt="IQVIA logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
 
 **Software Engineer** \
-[**IQVIA**](https://rocketseat.com.br/) • Intern \
+[**IQVIA**](https://www.iqvia.com/) • Intern \
 Languages & Tools: `Python`, `Django`, `Selenium`, `Pandas`\
 Resume: test_resume
 <br/>
