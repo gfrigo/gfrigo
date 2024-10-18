@@ -34,16 +34,16 @@
 
 **Technology** \
 [**Bradesco Seguros**](https://www.bradescoseguros.com.br/clientes) • Intern \
-Linguagens & Tecnologias: `Python`, `Django`, `Selenium`, `Pandas`\
-Projetos em destaque: [Nome](Link)
+Languages & Tools: `Java`, `Spring`, `Docker`, `Azure`\
+Resume: test_resume
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="IQVIA logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
 
 **Software Engineer** \
 [**IQVIA**](https://rocketseat.com.br/) • Intern \
-Linguagens & Tecnologias: `Python`, `Django`, `Selenium`, `Pandas`\
-Projetos em destaque: [Nome](Link)
+Languages & Tools: `Python`, `Django`, `Selenium`, `Pandas`\
+Resume: test_resume
 <br/>
 
 ###
