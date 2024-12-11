@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel Frigo and I'm a Full-Stack Software Developer.</p>
+<p align="left">My name is Gabriel Frigo and I'm a Software Developer.</p>
 
 ###
 
