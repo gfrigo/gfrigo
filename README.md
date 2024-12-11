@@ -11,9 +11,9 @@
 ###
 
 <p align="left">
-  📚 Currently, I'm studying Back-end Development with Java and Spring Boot<br>
-  💼 I'm working as an Intern Python Software Developer at IQVIA<br>
-  🎓 Computer Engineering: 4/10<br>
+  📚 Currently, I'm studying Software Development with Java, Python and JavaScript<br>
+  💼 I'm working as an Intern at Bradesco Seguros<br>
+  🎓 Computer Engineering: 5/10<br>
 </p>
 
 ###
