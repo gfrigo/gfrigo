@@ -35,7 +35,6 @@
 **Technology** \
 [**Bradesco Seguros**](https://www.bradescoseguros.com.br/clientes) • Intern \
 Languages & Tools: `SAP`\
-Resume: test_resume
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="IQVIA logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
@@ -43,7 +42,6 @@ Resume: test_resume
 **Software Engineer** \
 [**IQVIA**](https://www.iqvia.com/) • Intern \
 Languages & Tools: `Python`, `Django`, `Selenium`, `Pandas`\
-Resume: test_resume
 <br/>
 
 ###
