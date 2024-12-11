@@ -34,7 +34,7 @@
 
 **Technology** \
 [**Bradesco Seguros**](https://www.bradescoseguros.com.br/clientes) • Intern \
-Languages & Tools: `Java`, `Spring`, `Docker`, `Azure`\
+Languages & Tools: `SAP`\
 Resume: test_resume
 <br/>
 
