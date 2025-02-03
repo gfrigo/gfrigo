@@ -30,15 +30,15 @@
 
 ###
 
-**Technology** \
 
+**Data Engineer** \
 [<img align="left" height="94px" width="94px" alt="Maxxidata Logo" src="/images/maxxi.png"/>](https://www.maxxi.io/)
 [**Maxxidata**](https://www.maxxi.io/) • Intern \
 Languages & Tools: `Python, Java, Javascript, AWS and SQL`\
 <br/>
 
+**IT Management** \
 [<img align="left" height="94px" width="94px" alt="Bradesco Seguros Logo" src="/images/bradesco.png"/>](https://www.bradescoseguros.com.br/clientes)
-
 [**Bradesco Seguros**](https://www.bradescoseguros.com.br/clientes) • Intern \
 Languages & Tools: `SAP`\
 <br/>
