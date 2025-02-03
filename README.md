@@ -34,7 +34,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Maxxidata Logo" src="/images/maxxi.png"/>](https://www.maxxi.io/)
 
-**Data Engineer** \
+**Data Engineer** 
 
 [**Maxxidata**](https://www.maxxi.io/) • Intern \
 Languages & Tools: `Python, Java, Javascript, AWS and SQL`\
@@ -42,7 +42,7 @@ Languages & Tools: `Python, Java, Javascript, AWS and SQL`\
 
 [<img align="left" height="94px" width="94px" alt="Bradesco Seguros Logo" src="/images/bradesco.png"/>](https://www.bradescoseguros.com.br/clientes)
 
-**Technology** \
+**Technology** 
 
 [**Bradesco Seguros**](https://www.bradescoseguros.com.br/clientes) • Intern \
 Languages & Tools: `SAP`\
@@ -50,7 +50,7 @@ Languages & Tools: `SAP`\
 
 [<img align="left" height="94px" width="94px" alt="IQVIA Logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
 
-**Software Engineer** \
+**Software Engineer** 
 
 [**IQVIA**](https://www.iqvia.com/) • Intern \
 Languages & Tools: `Python`, `Django`, `Selenium`, `Pandas`\
