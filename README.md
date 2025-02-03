@@ -34,7 +34,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Maxxidata Logo" src="/images/maxxi.png"/>](https://www.maxxi.io/)
 
-###**Data Engineer** 
+**Data Engineer** 
 
 [**Maxxidata**](https://www.maxxi.io/) • Intern \
 Languages & Tools: `Python, Java, Javascript, AWS and SQL`\
