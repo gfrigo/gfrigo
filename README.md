@@ -43,9 +43,8 @@ Languages & Tools: `Python, Java, Javascript, AWS and SQL`\
 Languages & Tools: `SAP`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="IQVIA Logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
-
 **Software Engineer** \
+[<img align="left" height="94px" width="94px" alt="IQVIA Logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
 [**IQVIA**](https://www.iqvia.com/) • Intern \
 Languages & Tools: `Python`, `Django`, `Selenium`, `Pandas`\
 <br/>
