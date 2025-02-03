@@ -42,7 +42,6 @@ Languages & Tools: `Python, Java, Javascript, AWS and SQL`\
 [<img align="left" height="94px" width="94px" alt="Bradesco Seguros Logo" src="/images/bradesco.png"/>](https://www.bradescoseguros.com.br/clientes)
 
 **Technology** 
-
 [**Bradesco Seguros**](https://www.bradescoseguros.com.br/clientes) • Intern \
 Languages & Tools: `SAP`\
 <br/>
