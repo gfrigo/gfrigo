@@ -11,8 +11,8 @@
 ###
 
 <p align="left">
-  📚 Currently, I'm studying Software Development with Java, Python and JavaScript<br>
-  💼 I'm working as an Intern at Bradesco Seguros<br>
+  📚 Currently, I'm studying Software Development and Data Engineering with Java, Python and JavaScript<br>
+  💼 I'm working as an Intern at Maxxidata<br>
   🎓 Computer Engineering: 5/10<br>
 </p>
 
@@ -30,14 +30,20 @@
 
 ###
 
-[<img align="left" height="94px" width="94px" alt="Bradesco seguros logo" src="/images/bradesco.png"/>](https://www.bradescoseguros.com.br/clientes)
+[<img align="left" height="94px" width="94px" alt="Maxxidata Logo" src="/images/maxxi.png"/>](https://www.maxxi.io/)
 
 **Technology** \
+[**Maxxidata**](https://www.maxxi.io/) • Intern \
+Languages & Tools: `Python, Java, Javascript, AWS and SQL`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Bradesco Seguros Logo" src="/images/bradesco.png"/>](https://www.bradescoseguros.com.br/clientes)
+
 [**Bradesco Seguros**](https://www.bradescoseguros.com.br/clientes) • Intern \
 Languages & Tools: `SAP`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="IQVIA logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
+[<img align="left" height="94px" width="94px" alt="IQVIA Logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
 
 **Software Engineer** \
 [**IQVIA**](https://www.iqvia.com/) • Intern \
