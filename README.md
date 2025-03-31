@@ -32,24 +32,21 @@
 
 [<img align="left" height="94px" width="94px" alt="Maxxidata Logo" src="/images/maxxi.png"/>](https://www.maxxi.io/)
 
-**Data Engineer** \
-
+**Data Engineer** 
 [**Maxxidata**](https://www.maxxi.io/) • Intern \
 Stack tools: `Python`, `Java`, `Javascript`, `Apache Kafka`, `AWS`, `Microsoft Azure`, `Google Cloud Platform`, `Docker`, `Power Automate`, `SQL`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Bradesco Seguros Logo" src="/images/bradesco.png"/>](https://www.bradescoseguros.com.br/clientes)
 
-**Technology** \
-
+**Technology** 
 [**Bradesco Seguros**](https://www.bradescoseguros.com.br/clientes) • Intern \
 Stack tools: `SAP`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="IQVIA Logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
 
-**Data Engineer** \
-
+**Data Engineer** 
 [**IQVIA**](https://www.iqvia.com/) • Intern \
 Stack tools: `Python`, `Selenium`, `Django`, `SQL Server`\
 <br/>
