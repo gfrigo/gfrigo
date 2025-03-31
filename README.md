@@ -30,7 +30,7 @@
 
 ###
 
-[<img align="left" height="94px" width="94px" alt="Maxxidata Logo" src="/images/maxxi.png"/>](https://www.maxxi.io/)]
+[<img align="left" height="94px" width="94px" alt="Maxxidata Logo" src="/images/maxxi.png"/>](https://www.maxxi.io/)
 
 **Data Engineer** \
 
@@ -38,7 +38,7 @@
 Stack tools: `Python`, `Java`, `Javascript`, `Apache Kafka`, `AWS`, `Microsoft Azure`, `Google Cloud Platform`, `Docker`, `Power Automate`, `SQL`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Bradesco Seguros Logo" src="/images/bradesco.png"/>](https://www.bradescoseguros.com.br/clientes)]
+[<img align="left" height="94px" width="94px" alt="Bradesco Seguros Logo" src="/images/bradesco.png"/>](https://www.bradescoseguros.com.br/clientes)
 
 **Technology** \
 
@@ -46,7 +46,7 @@ Stack tools: `Python`, `Java`, `Javascript`, `Apache Kafka`, `AWS`, `Microsoft A
 Stack tools: `SAP`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="IQVIA Logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)]
+[<img align="left" height="94px" width="94px" alt="IQVIA Logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
 
 **Data Engineer** \
 
