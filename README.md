@@ -30,7 +30,7 @@
 
 ###
 
-<div clear="left"><div/>
+<br clear="left">/
 
 [<img align="left" height="94px" width="94px" alt="Maxxidata Logo" src="/images/maxxi.png"/>](https://www.maxxi.io/)
 
@@ -39,7 +39,7 @@
 Stack tools: `Python`, `Java`, `Javascript`, `Apache Kafka`, `AWS`, `Microsoft Azure`, `Google Cloud Platform`, `Docker`, `Power Automate`, `SQL`\
 <br/>
 
-<div clear="left"><div/>
+<br clear="left">/
 
 [<img align="left" height="94px" width="94px" alt="Bradesco Seguros Logo" src="/images/bradesco.png"/>](https://www.bradescoseguros.com.br/clientes)
 
@@ -48,7 +48,7 @@ Stack tools: `Python`, `Java`, `Javascript`, `Apache Kafka`, `AWS`, `Microsoft A
 Stack tools: `SAP`\
 <br/>
 
-<div clear="left"><div/>
+<br clear="left">/
 
 [<img align="left" height="94px" width="94px" alt="IQVIA Logo" src="/images/iqvia.png"/>](https://www.iqvia.com/)
 
