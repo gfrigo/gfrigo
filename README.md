@@ -11,9 +11,9 @@
 ###
 
 <p align="left">
-  📚 Currently, I'm studying Software Development and Data Engineering with Java, Python and JavaScript<br>
-  💼 I'm working as an Intern at Maxxidata<br>
-  🎓 Computer Engineering: 5/10<br>
+  📚 Currently, I'm studying Data Engineering<br>
+  💼 I'm working as an Intern at Maxxi<br>
+  🎓 Computer Engineering: 6/10<br>
 </p>
 
 ###
