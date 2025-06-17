@@ -22,7 +22,7 @@
 
 ###
 
-  ![My Skills](https://skillicons.dev/icons?i=java,spring,aws,python,django,selenium,js,html,css,react,figma,postgres,docker,git)
+  ![My Skills](https://skillicons.dev/icons?i=aws,python,django,selenium,postgres,docker,git,terraform)
 
 ###
 
