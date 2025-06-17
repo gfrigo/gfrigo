@@ -22,7 +22,7 @@
 
 ###
 
-  ![My Skills](https://skillicons.dev/icons?i=aws,python,django,selenium,postgres,docker,git,terraform)
+  ![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,aws,docker,linux,kafka,terraform,git,githubactions,kubernetes,mysql,postgres,redis,mongodb)
 
 ###
 
